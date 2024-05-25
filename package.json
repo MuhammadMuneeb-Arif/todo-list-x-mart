@@ -1,0 +1,21 @@
+{
+  "name": "todo_list_app_by_using_mart_example",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MUNEEB AHMED",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "todo_list_app_by_using_mart_example": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
